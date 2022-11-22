@@ -1,0 +1,9 @@
+b) el ruido blanco, tiene un valor constantes en cada frecuencia en su espectro.
+
+8¿Qué papel juega la siguiente combinación de bloques?
+
+el bloque add agrega muestras en el flujo de entrada, y luego amplifica la señal resultante con una constante de 2.
+
+¿Qué papel juega el bloque “Interpolationg FIR Filter”, cómo funciona?
+
+
